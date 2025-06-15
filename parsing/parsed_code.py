@@ -14,7 +14,6 @@ for root, dirs, files in os.walk(SOURCE_DIR):
                 with open(os.path.join(root, file), 'r', errors='ignore') as f:
                     code = f.read()
 
-                # For now, very simple chunking (1 chunk = 200 lines max)
                 lines = code.split('\n')
                 chunks = [lines[i:i+200] for i in range(0, len(lines), 200)]
 
