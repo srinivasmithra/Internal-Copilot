@@ -1,8 +1,6 @@
 import os
 import json
 
-
-
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 SOURCE_FILE = os.path.join(ROOT_DIR, 'mock_data/jira_issues/jira_issues.json')

@@ -14,7 +14,6 @@ for file in os.listdir(SOURCE_DIR):
             with open(os.path.join(SOURCE_DIR, file), 'r') as f:
                 text = f.read()
 
-            # Simple chunking
             lines = text.split('\n')
             chunks = [lines[i:i+50] for i in range(0, len(lines), 50)]
 
