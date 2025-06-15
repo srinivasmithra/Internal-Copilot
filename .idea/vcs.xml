@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/ModernRobotics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/PX4-Autopilot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/PythonRobotics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/STM32CubeF4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/awesome-iot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/c_library_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/embedded-hal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/esp-idf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/fprime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/linux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/mbed-os" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock_data/code_repos/qmk_firmware" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+# Virtualenv
+.venv/
+__pycache__/
+*.pyc
+
+# Vector store files
+vector_store/
+processed_data/
+mock_data/
+parsed/
+helper/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
