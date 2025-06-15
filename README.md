@@ -55,8 +55,6 @@ __pycache__/
 vector_store/
 processed_data/
 mock_data/
-parsed/
-embeddings/output/
 .env
 .DS_Store
 ```
